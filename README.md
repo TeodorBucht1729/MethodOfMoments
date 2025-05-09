@@ -1,1 +1,2 @@
 # MethodOfMoments
+Implementation of a simple case of method of moments in Lean. We show that if the moments of a sequence of probability measures defined on the compact interbval [a, b] converge to the moments of a fixed probabilirt measure on [a, b], the sequence converges in distribution/weakly to this fixed measure. The strategy of proof is to estimate any bounded continuous function using a polynomial given by Weierstrass approximation theorem. 
